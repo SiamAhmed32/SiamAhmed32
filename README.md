@@ -48,6 +48,7 @@ Results-driven **Software Engineer** with hands-on experience building productio
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -92,12 +93,12 @@ Results-driven **Software Engineer** with hands-on experience building productio
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ ERP Textile Management System
-**Tech:** Next.js · TypeScript · PostgreSQL · Tailwind CSS
+### 🏗️ Textile ERP Management System
+**Tech:** Next.js · TypeScript · REST APIs · Tailwind CSS · PostgreSQL
 
-Enterprise-grade ERP system tailored for the textile industry. Manages production workflows, inventory, and operational data with a robust, scalable architecture.
+Designed and developed a modern ERP platform for textile business operations. Centralizes order tracking, operational data, and administrative workflows into a single dashboard. Features scalable frontend architecture and role-based access control.
 
-[![Live](https://img.shields.io/badge/🔗_Live_Demo-0ea5e9?style=flat-square)](https://erp-textile-eight.vercel.app/login)
+[![Live](https://img.shields.io/badge/🔗_Live_Demo-0ea5e9?style=flat-square)](https://erp-textile-eight.vercel.app/login) [![GitHub](https://img.shields.io/badge/⭐_GitHub-0f172a?style=flat-square)](https://github.com/SiamAhmed32/erp-textile)
 
 </td>
 <td width="50%" valign="top">
@@ -134,6 +135,16 @@ Full-featured e-commerce storefront with RTK Query-powered caching, real-time in
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 💬 Real-Time Chat Application *(In Progress)*
+**Tech:** React · TypeScript · Node.js · Express.js · Socket.io · MongoDB · JWT
+
+Full-stack real-time messaging platform with WebSocket-based instant communication, secure JWT authentication, persistent chat history, and scalable API design. Demonstrates end-to-end full-stack architecture with real-time event handling.
+
+![In Progress](https://img.shields.io/badge/🚧_In_Progress-f59e0b?style=flat-square) [![Frontend](https://img.shields.io/badge/⭐_Frontend-0f172a?style=flat-square)](https://github.com/SiamAhmed32/chat_frontend_final) [![Backend](https://img.shields.io/badge/⭐_Backend-0f172a?style=flat-square)](https://github.com/SiamAhmed32/chat_backend)
+
+</td>
 <td width="50%" valign="top">
 
 ### 👗 ClosetBD
@@ -173,10 +184,10 @@ Full-scale e-commerce platform with 20+ responsive pages, category filtering, pe
 
 ## 🏆 Achievements & Certifications
 
-- 🎓 **B.Sc. Computer Science & Engineering** — BRAC University
+- 🎓 **B.Sc. Computer Science & Engineering** — BRAC University *(CGPA: 3.55)*
 - ✅ **HackerRank** — Problem Solving (Intermediate) *(2025)*
 - ⚛️ **Reactive Accelerator** — React & Next.js (LWS) *(2025)*
-- 🌍 **IELTS Certified**
+- 🌍 **IELTS Certified** *(2024)*
 
 ---
 
