@@ -173,10 +173,10 @@ Full-scale e-commerce platform with 20+ responsive pages, category filtering, pe
 
 ## 🏆 Achievements & Certifications
 
-- 🎓 **B.Sc. Computer Science & Engineering** — BRAC University *(CGPA: 3.55)*
+- 🎓 **B.Sc. Computer Science & Engineering** — BRAC University
 - ✅ **HackerRank** — Problem Solving (Intermediate) *(2025)*
 - ⚛️ **Reactive Accelerator** — React & Next.js (LWS) *(2025)*
-- 🌍 **IELTS Certified** *(2024)*
+- 🌍 **IELTS Certified**
 
 ---
 
