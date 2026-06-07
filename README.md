@@ -1,168 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Kaosar%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=94d3f7" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111827,100:ff4d00&height=230&section=header&text=Kaosar%20Ahmed&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20PostgreSQL&descAlignY=58&descSize=17&descColor=f3f4f6" />
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0ea5e9?style=for-the-badge&logoColor=white)](http://siamahmedportfolio.netlify.app)
-[![Email](https://img.shields.io/badge/📧_Email-0f172a?style=for-the-badge&logoColor=white)](mailto:siamahmedgotthis@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiamAhmed32)
+<a href="https://siamportfolio-six.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-ff4d00?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:siamahmedgotthis@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=ff4d00" />
+</a>
+<a href="https://github.com/SiamAhmed32">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://wa.me/8801813494196">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<h3>
+Building production-grade web applications, real-time systems, ERP dashboards, e-commerce platforms, and scalable business products.
+</h3>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-```ts
-const kaosar = {
-  role: "Software Engineer @ Elevate IT",
-  focus: ["Next.js", "React", "TypeScript", "Node.js"],
-  currentlyLearning: ["System Design", "Scalable APIs", "Advanced Backend Architecture"],
-  location: "Dhaka, Bangladesh 🇧🇩",
-  available: true,
-};
-```
-
-Results-driven **Software Engineer** with hands-on experience building production-grade web applications for **10,000+ daily active users**. I bridge the gap between beautiful frontend interfaces and reliable backend systems — specializing in **Next.js**, **React**, **TypeScript**, and **Node.js/Express/PostgreSQL** stacks.
-
----
-
-## 🛠️ Tech Stack
-
-### ⚡ Frontend (Primary Focus)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-
-### 🔧 Backend & Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🧰 Tools & Workflow
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-0ea5e9?style=for-the-badge&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Agile](https://img.shields.io/badge/Agile/Scrum-0077B5?style=for-the-badge&logoColor=white)
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Software Engineer — **Elevate IT** *(December 2025 – Present)*
-
-- 🎯 Core developer on the **LSO Bar Exam Platform** and a **Real-Time Auction Platform** using Next.js, with a focus on data reliability and performance
-- 🔧 Built and maintained **backend services** using Node.js, Express, and MongoDB/PostgreSQL
-- 🎨 Delivered high-end frontend experiences with **custom animations** and pixel-perfect responsive designs
-- 🔄 Supported full-stack development cycles — from UI logic to API integration — to meet client deliverables
-- 📈 Optimized SEO and web performance for client websites, improving load speeds and search visibility
-- 🔌 Integrated third-party APIs (contact forms, dynamic content) across multiple production projects
-
----
-
-### 🏢 Software Engineer — **Nexlalinx** *(August 2025 – November 2025)*
-
-- ⚙️ Engineered full-scale web applications with **Next.js 14+, React 18+, TypeScript**, serving **10,000+ daily active users**
-- 🧩 Designed **20+ reusable UI components** with Shadcn UI, cutting development time by **40%**
-- 🔐 Implemented **JWT-based authentication** with secure session handling
-- 📊 Built **responsive dashboards** and admin panels with advanced filtering, pagination & real-time updates — improving user engagement by **25%** and cutting load times by **30%**
-- 🤝 Collaborated in **Agile/Scrum teams** of 5+ engineers across standups, sprint planning, and code reviews
-
----
-
-## 🚀 Featured Projects
+## About Me
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Textile ERP Management System
-**Tech:** Next.js · TypeScript · REST APIs · Tailwind CSS · PostgreSQL
+### Who I Am
 
-Designed and developed a modern ERP platform for textile business operations. Centralizes order tracking, operational data, and administrative workflows into a single dashboard. Features scalable frontend architecture and role-based access control.
+I am a **Full Stack Software Engineer** with **3+ years of professional experience** delivering production-grade applications for clients across the **UK, USA, Canada, and Bangladesh**.
 
-[![Live](https://img.shields.io/badge/🔗_Live_Demo-0ea5e9?style=flat-square)](https://erp-textile-eight.vercel.app/login) [![GitHub](https://img.shields.io/badge/⭐_GitHub-0f172a?style=flat-square)](https://github.com/SiamAhmed32/erp-textile)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚖️ LSO Bar Exam Platform
-**Tech:** Next.js · TypeScript · PostgreSQL · Tailwind CSS
-
-Secure, high-performance examination platform for legal professionals. Features complex question handling, progress tracking, and session-safe data persistence.
-
-[![Live](https://img.shields.io/badge/🔗_Live_Demo-0ea5e9?style=flat-square)](https://lso-bar-exam.vercel.app/) [![GitHub](https://img.shields.io/badge/⭐_GitHub-0f172a?style=flat-square)](https://github.com/SiamAhmed32/LSO-BAR-EXAM)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔨 Real-Time Auction Platform
-**Tech:** Next.js · TypeScript · PostgreSQL · Tailwind CSS
-
-Live bidding engine built for high-concurrency auction events. Real-time price updates, user dashboards, bid history tracking, and mobile-first responsive UI.
-
-[![Live](https://img.shields.io/badge/🔗_Live_Demo-0ea5e9?style=flat-square)](https://auction-one-rho.vercel.app/) [![GitHub](https://img.shields.io/badge/⭐_GitHub-0f172a?style=flat-square)](https://github.com/SiamAhmed32/auction-project)
+I work across the full product lifecycle — from frontend architecture and API integration to backend systems, authentication, database design, deployment, and performance optimization.
 
 </td>
 <td width="50%" valign="top">
 
-### 💧 Coastal Water Filters
-**Tech:** Next.js · TypeScript · Redux · RTK Query · Tailwind CSS
+### What I Focus On
 
-Full-featured e-commerce storefront with RTK Query-powered caching, real-time inventory sync, persistent shopping cart, and SEO-optimized SSR.
-
-[![Live](https://img.shields.io/badge/🔗_Live_Demo-0ea5e9?style=flat-square)](https://cwf-finale.vercel.app/)
+```ts
+const focus = [
+  "Production-grade web applications",
+  "Scalable frontend architecture",
+  "Secure backend APIs",
+  "Real-time systems",
+  "ERP dashboards",
+  "E-commerce platforms",
+  "Performance & SEO optimization",
+];
+```
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 💬 Real-Time Chat Application *(In Progress)*
-**Tech:** React · TypeScript · Node.js · Express.js · Socket.io · MongoDB · JWT
+### Product Thinking
 
-Full-stack real-time messaging platform with WebSocket-based instant communication, secure JWT authentication, persistent chat history, and scalable API design. Demonstrates end-to-end full-stack architecture with real-time event handling.
-
-![In Progress](https://img.shields.io/badge/🚧_In_Progress-f59e0b?style=flat-square) [![Frontend](https://img.shields.io/badge/⭐_Frontend-0f172a?style=flat-square)](https://github.com/SiamAhmed32/chat_frontend_final) [![Backend](https://img.shields.io/badge/⭐_Backend-0f172a?style=flat-square)](https://github.com/SiamAhmed32/chat_backend)
+I do not only build screens. I try to understand the business goal, user flow, edge cases, and long-term maintainability before writing code.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 👗 ClosetBD
-**Tech:** Next.js · Redux · TypeScript · Chakra UI · RTK Query · Swiper.js
+### Engineering Depth
 
-High-performance fashion e-commerce platform. Interactive product carousels, smooth page transitions, optimized state management, and SEO best practices.
-
-[![Live](https://img.shields.io/badge/🔗_Live_Demo-0ea5e9?style=flat-square)](https://closetbd.com)
+I work with modern full-stack tools including **Next.js, React, TypeScript, Node.js, Express, PostgreSQL, Prisma, RTK Query, Socket.io, Docker, and AWS EC2**.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🛒 Bazarey E-Commerce
-**Tech:** Next.js · TypeScript · Tailwind CSS · Redux · Shadcn UI
+### Delivery Mindset
 
-Full-scale e-commerce platform with 20+ responsive pages, category filtering, persistent cart, and a reusable Shadcn UI component library for consistent design.
-
-[![Live](https://img.shields.io/badge/🔗_Live_Demo-0ea5e9?style=flat-square)](https://www.bazarey.store/)
+I care about clean architecture, reusable components, secure sessions, optimized APIs, responsive UI, and systems that are easy to extend after handoff.
 
 </td>
 </tr>
@@ -170,47 +94,319 @@ Full-scale e-commerce platform with 20+ responsive pages, category filtering, pe
 
 ---
 
-## 📊 GitHub Stats
+## Core Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiamAhmed32&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9)
+### Frontend
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiamAhmed32&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=ffffff)
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux" />
+
+<br />
+<br />
+
+### Backend, Database & Real-Time
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,redis" />
+
+<br />
+<br />
+
+### Cloud, Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,git,github,vscode" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-111111?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-111111?style=for-the-badge&logo=zod&logoColor=3E67B1" />
+<img src="https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-111111?style=for-the-badge&logo=stripe&logoColor=635BFF" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## Featured Production Work
 
-- 🎓 **B.Sc. Computer Science & Engineering** — BRAC University *(CGPA: 3.55)*
-- ✅ **HackerRank** — Problem Solving (Intermediate) *(2025)*
-- ⚛️ **Reactive Accelerator** — React & Next.js (LWS) *(2025)*
-- 🌍 **IELTS Certified** *(2024)*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Coastal Water Technologies
+
+**B2B Wholesale E-Commerce Platform**
+
+**Stack:** Next.js · TypeScript · Node.js · MongoDB · Redux Toolkit · RTK Query · Socket.io · Tailwind CSS
+
+B2B wholesale platform for US water technology professionals with **10,000+ SKUs**, Quick Product Finder, multi-level navigation, cart, order tracking, loyalty rewards, and live chat.
+
+**Key Work**
+
+* Large catalogue architecture
+* RTK Query caching strategy
+* Optimized product browsing flow
+* E-commerce order management
+
+</td>
+<td width="50%" valign="top">
+
+### LSO Bar Exam Platform
+
+**Ontario Legal Exam Prep**
+
+**Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma ORM · Stripe · Tailwind CSS
+
+Exam preparation platform for Ontario law candidates with timed 4.5-hour sessions, automatic progress saving, paid exam sets, and per-question explanations.
+
+**Key Work**
+
+* Timed exam sessions
+* Progress persistence
+* Stripe payment integration
+* PostgreSQL relational data integrity
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Real-Time Auction Platform
+
+**Live Auction System**
+
+**Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma ORM · Socket.io · Redis/Upstash · Pusher · Tailwind CSS
+
+Real-time auction application with Socket.io bidding, Redis/Upstash caching, Pusher notifications, and role-based seller/buyer dashboards.
+
+**Key Work**
+
+* Real-time bid propagation
+* Redis cache hydration
+* Role-based dashboards
+* Notification system
+
+</td>
+<td width="50%" valign="top">
+
+### ERP Textile Platform
+
+**Industry Management System**
+
+**Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma ORM · Redux Toolkit · RTK Query · Tailwind CSS
+
+Full-stack ERP platform for textile operations including inventory management, order tracking, role-based access control, and file upload handling.
+
+**Key Work**
+
+* Inventory workflows
+* Order tracking
+* Role-based permissions
+* Relational data modeling
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Currently Leveling Up
+## Experience Snapshot
 
-```
-🔲 System Design & Scalable Architecture
-🔲 Advanced Node.js & API Performance
-🔲 Backend Design Patterns
-🔲 Database Optimization (PostgreSQL)
-🔲 DevOps Fundamentals (CI/CD, Docker)
-```
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### Elevate IT
+
+**Software Engineer**
+`Dec 2025 – Present`
+
+</div>
+
+**Focus Areas**
+
+* LSO Bar Exam Platform
+* Super Media Bros Auction Platform
+* Real-time bidding systems
+* Secure frontend architecture
+* REST APIs with PostgreSQL, Prisma, and Zod
+* Socket.io, Redis/Upstash, and Pusher workflows
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### Nexlalinx
+
+**Software Engineer**
+`Apr 2024 – Nov 2025`
+
+</div>
+
+**Focus Areas**
+
+* Next.js 14 and React 18 production apps
+* 20+ component UI library
+* Shadcn UI and Tailwind CSS systems
+* RTK Query caching architecture
+* SSR, SSG, CSR rendering decisions
+* Performance and Core Web Vitals optimization
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### Brain Skill EdTech
+
+**PM & Client Relations Lead**
+`Jan 2023 – Mar 2024`
+
+</div>
+
+**Focus Areas**
+
+* Technical delivery ownership
+* Sprint planning and task breakdown
+* Client communication
+* Workflow setup
+* QA and handoff process
+* Cross-functional team coordination
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering Strengths
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### Frontend
+
+* Component architecture
+* Reusable UI systems
+* Responsive layouts
+* State management
+* RTK Query caching
+* SEO optimization
+
+</td>
+<td width="25%" valign="top">
+
+### Backend
+
+* REST API design
+* Authentication
+* Authorization
+* Zod validation
+* Secure session handling
+* Role-based access
+
+</td>
+<td width="25%" valign="top">
+
+### Database
+
+* PostgreSQL modeling
+* Prisma ORM
+* Query optimization
+* Relational workflows
+* MongoDB data handling
+* Audit-friendly systems
+
+</td>
+<td width="25%" valign="top">
+
+### Product Delivery
+
+* Requirement analysis
+* Architecture planning
+* Agile collaboration
+* Performance optimization
+* Deployment
+* Maintainable handoff
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SiamAhmed32&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=ff4d00&text_color=ffffff&icon_color=ff4d00" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SiamAhmed32&theme=dark&hide_border=true&background=050505&stroke=ff4d00&ring=ff4d00&fire=ff4d00&currStreakLabel=ff4d00" />
+
+<br />
+<br />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiamAhmed32&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=ff4d00&text_color=ffffff" />
+
+</div>
+
+---
+
+## Education & Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Education
+
+**BSc in Computer Science and Engineering**
+BRAC University, Dhaka, Bangladesh
+
+**Graduated:** 2023
+
+</td>
+<td width="50%" valign="top">
+
+### Certifications
+
+* **Problem Solving (Intermediate)** — HackerRank, 2025
+* **Reactive Accelerator: React and Next.js** — Learn with Sumit, 2025
+* **IELTS** — British Council, 2024
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 💬 Let's Build Something Great Together
+## Let's Connect
 
-[![Email](https://img.shields.io/badge/siamahmedgotthis@gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=0ea5e9)](mailto:siamahmedgotthis@gmail.com)
-[![Portfolio](https://img.shields.io/badge/siamahmedportfolio.netlify.app-0f172a?style=for-the-badge&logo=netlify&logoColor=0ea5e9)](http://siamahmedportfolio.netlify.app)
-[![GitHub](https://img.shields.io/badge/SiamAhmed32-0f172a?style=for-the-badge&logo=github&logoColor=0ea5e9)](https://github.com/SiamAhmed32)
+<a href="mailto:siamahmedgotthis@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ff4d00?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://siamportfolio-six.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=ff4d00" />
+</a>
+<a href="https://github.com/SiamAhmed32">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://wa.me/8801813494196">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=120&section=footer" />
+<br />
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d00,50:111827,100:050505&height=130&section=footer" />
 
 </div>
