@@ -25,9 +25,9 @@
 
 <div align="center">
 
-<h3>
-Building production-grade web applications, real-time systems, ERP dashboards, e-commerce platforms, and scalable business products.
-</h3>
+<strong>
+Full Stack Software Engineer building production-grade web applications, real-time systems, ERP dashboards, e-commerce platforms, and scalable business products.
+</strong>
 
 </div>
 
@@ -35,56 +35,44 @@ Building production-grade web applications, real-time systems, ERP dashboards, e
 
 ## About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div>
 
-### Who I Am
-
-I am a **Full Stack Software Engineer** with **3+ years of professional experience** delivering production-grade applications for clients across the **UK, USA, Canada, and Bangladesh**.
+I am a <strong>Full Stack Software Engineer</strong> with <strong>3+ years of professional experience</strong> delivering production-grade applications for clients across the <strong>UK, USA, Canada, and Bangladesh</strong>.
 
 I work across the full product lifecycle — from frontend architecture and API integration to backend systems, authentication, database design, deployment, and performance optimization.
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### What I Focus On
-
-```ts
-const focus = [
-  "Production-grade web applications",
-  "Scalable frontend architecture",
-  "Secure backend APIs",
-  "Real-time systems",
-  "ERP dashboards",
-  "E-commerce platforms",
-  "Performance & SEO optimization",
-];
-```
-
-</td>
-</tr>
-</table>
+<br />
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td valign="top">
 
-### Product Thinking
+<strong>Product Thinking</strong>
+
+<br />
+<br />
 
 I do not only build screens. I try to understand the business goal, user flow, edge cases, and long-term maintainability before writing code.
 
 </td>
-<td width="33%" valign="top">
+<td valign="top">
 
-### Engineering Depth
+<strong>Engineering Depth</strong>
 
-I work with modern full-stack tools including **Next.js, React, TypeScript, Node.js, Express, PostgreSQL, Prisma, RTK Query, Socket.io, Docker, and AWS EC2**.
+<br />
+<br />
+
+I work with modern full-stack tools including Next.js, React, TypeScript, Node.js, Express, PostgreSQL, Prisma, RTK Query, Socket.io, Docker, and AWS EC2.
 
 </td>
-<td width="33%" valign="top">
+<td valign="top">
 
-### Delivery Mindset
+<strong>Delivery Mindset</strong>
+
+<br />
+<br />
 
 I care about clean architecture, reusable components, secure sessions, optimized APIs, responsive UI, and systems that are easy to extend after handoff.
 
@@ -98,21 +86,30 @@ I care about clean architecture, reusable components, secure sessions, optimized
 
 <div align="center">
 
-### Frontend
+<strong>Frontend</strong>
+
+<br />
+<br />
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux" />
 
 <br />
 <br />
 
-### Backend, Database & Real-Time
+<strong>Backend, Database & Real-Time</strong>
+
+<br />
+<br />
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,redis" />
 
 <br />
 <br />
 
-### Cloud, Tools & Workflow
+<strong>Cloud, Tools & Workflow</strong>
+
+<br />
+<br />
 
 <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,git,github,vscode" />
 
@@ -133,79 +130,131 @@ I care about clean architecture, reusable components, secure sessions, optimized
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### Coastal Water Technologies
+<strong>Coastal Water Technologies</strong>
 
-**B2B Wholesale E-Commerce Platform**
+<br />
 
-**Stack:** Next.js · TypeScript · Node.js · MongoDB · Redux Toolkit · RTK Query · Socket.io · Tailwind CSS
+<em>B2B Wholesale E-Commerce Platform</em>
 
-B2B wholesale platform for US water technology professionals with **10,000+ SKUs**, Quick Product Finder, multi-level navigation, cart, order tracking, loyalty rewards, and live chat.
+<br />
+<br />
 
-**Key Work**
+<strong>Stack:</strong> Next.js · TypeScript · Node.js · MongoDB · Redux Toolkit · RTK Query · Socket.io · Tailwind CSS
 
-* Large catalogue architecture
-* RTK Query caching strategy
-* Optimized product browsing flow
-* E-commerce order management
+<br />
+<br />
+
+B2B wholesale platform for US water technology professionals with <strong>10,000+ SKUs</strong>, Quick Product Finder, multi-level navigation, cart, order tracking, loyalty rewards, and live chat.
+
+<br />
+<br />
+
+<strong>Key Work</strong>
+
+<ul>
+<li>Large catalogue architecture</li>
+<li>RTK Query caching strategy</li>
+<li>Optimized product browsing flow</li>
+<li>E-commerce order management</li>
+</ul>
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### LSO Bar Exam Platform
+<strong>LSO Bar Exam Platform</strong>
 
-**Ontario Legal Exam Prep**
+<br />
 
-**Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma ORM · Stripe · Tailwind CSS
+<em>Ontario Legal Exam Prep</em>
+
+<br />
+<br />
+
+<strong>Stack:</strong> Next.js · TypeScript · Node.js · PostgreSQL · Prisma ORM · Stripe · Tailwind CSS
+
+<br />
+<br />
 
 Exam preparation platform for Ontario law candidates with timed 4.5-hour sessions, automatic progress saving, paid exam sets, and per-question explanations.
 
-**Key Work**
+<br />
+<br />
 
-* Timed exam sessions
-* Progress persistence
-* Stripe payment integration
-* PostgreSQL relational data integrity
+<strong>Key Work</strong>
+
+<ul>
+<li>Timed exam sessions</li>
+<li>Progress persistence</li>
+<li>Stripe payment integration</li>
+<li>PostgreSQL relational data integrity</li>
+</ul>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### Real-Time Auction Platform
+<strong>Real-Time Auction Platform</strong>
 
-**Live Auction System**
+<br />
 
-**Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma ORM · Socket.io · Redis/Upstash · Pusher · Tailwind CSS
+<em>Live Auction System</em>
+
+<br />
+<br />
+
+<strong>Stack:</strong> Next.js · TypeScript · Node.js · PostgreSQL · Prisma ORM · Socket.io · Redis/Upstash · Pusher · Tailwind CSS
+
+<br />
+<br />
 
 Real-time auction application with Socket.io bidding, Redis/Upstash caching, Pusher notifications, and role-based seller/buyer dashboards.
 
-**Key Work**
+<br />
+<br />
 
-* Real-time bid propagation
-* Redis cache hydration
-* Role-based dashboards
-* Notification system
+<strong>Key Work</strong>
+
+<ul>
+<li>Real-time bid propagation</li>
+<li>Redis cache hydration</li>
+<li>Role-based dashboards</li>
+<li>Notification system</li>
+</ul>
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### ERP Textile Platform
+<strong>ERP Textile Platform</strong>
 
-**Industry Management System**
+<br />
 
-**Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma ORM · Redux Toolkit · RTK Query · Tailwind CSS
+<em>Industry Management System</em>
+
+<br />
+<br />
+
+<strong>Stack:</strong> Next.js · TypeScript · Node.js · PostgreSQL · Prisma ORM · Redux Toolkit · RTK Query · Tailwind CSS
+
+<br />
+<br />
 
 Full-stack ERP platform for textile operations including inventory management, order tracking, role-based access control, and file upload handling.
 
-**Key Work**
+<br />
+<br />
 
-* Inventory workflows
-* Order tracking
-* Role-based permissions
-* Relational data modeling
+<strong>Key Work</strong>
+
+<ul>
+<li>Inventory workflows</li>
+<li>Order tracking</li>
+<li>Role-based permissions</li>
+<li>Relational data modeling</li>
+</ul>
 
 </td>
 </tr>
@@ -217,67 +266,94 @@ Full-stack ERP platform for textile operations including inventory management, o
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td valign="top" width="33%">
 
 <div align="center">
 
-### Elevate IT
+<strong>Elevate IT</strong>
 
-**Software Engineer**
-`Dec 2025 – Present`
+<br />
+
+<em>Software Engineer</em>
+
+<br />
+
+<code>Dec 2025 – Present</code>
 
 </div>
 
-**Focus Areas**
+<br />
 
-* LSO Bar Exam Platform
-* Super Media Bros Auction Platform
-* Real-time bidding systems
-* Secure frontend architecture
-* REST APIs with PostgreSQL, Prisma, and Zod
-* Socket.io, Redis/Upstash, and Pusher workflows
+<strong>Focus Areas</strong>
+
+<ul>
+<li>LSO Bar Exam Platform</li>
+<li>Super Media Bros Auction Platform</li>
+<li>Real-time bidding systems</li>
+<li>Secure frontend architecture</li>
+<li>REST APIs with PostgreSQL, Prisma, and Zod</li>
+<li>Socket.io, Redis/Upstash, and Pusher workflows</li>
+</ul>
 
 </td>
-<td width="33%" valign="top">
+<td valign="top" width="33%">
 
 <div align="center">
 
-### Nexlalinx
+<strong>Nexlalinx</strong>
 
-**Software Engineer**
-`Apr 2024 – Nov 2025`
+<br />
+
+<em>Software Engineer</em>
+
+<br />
+
+<code>Apr 2024 – Nov 2025</code>
 
 </div>
 
-**Focus Areas**
+<br />
 
-* Next.js 14 and React 18 production apps
-* 20+ component UI library
-* Shadcn UI and Tailwind CSS systems
-* RTK Query caching architecture
-* SSR, SSG, CSR rendering decisions
-* Performance and Core Web Vitals optimization
+<strong>Focus Areas</strong>
+
+<ul>
+<li>Next.js 14 and React 18 production apps</li>
+<li>20+ component UI library</li>
+<li>Shadcn UI and Tailwind CSS systems</li>
+<li>RTK Query caching architecture</li>
+<li>SSR, SSG, CSR rendering decisions</li>
+<li>Performance and Core Web Vitals optimization</li>
+</ul>
 
 </td>
-<td width="33%" valign="top">
+<td valign="top" width="33%">
 
 <div align="center">
 
-### Brain Skill EdTech
+<strong>Brain Skill EdTech</strong>
 
-**PM & Client Relations Lead**
-`Jan 2023 – Mar 2024`
+<br />
+
+<em>PM & Client Relations Lead</em>
+
+<br />
+
+<code>Jan 2023 – Mar 2024</code>
 
 </div>
 
-**Focus Areas**
+<br />
 
-* Technical delivery ownership
-* Sprint planning and task breakdown
-* Client communication
-* Workflow setup
-* QA and handoff process
-* Cross-functional team coordination
+<strong>Focus Areas</strong>
+
+<ul>
+<li>Technical delivery ownership</li>
+<li>Sprint planning and task breakdown</li>
+<li>Client communication</li>
+<li>Workflow setup</li>
+<li>QA and handoff process</li>
+<li>Cross-functional team coordination</li>
+</ul>
 
 </td>
 </tr>
@@ -289,52 +365,60 @@ Full-stack ERP platform for textile operations including inventory management, o
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td valign="top" width="25%">
 
-### Frontend
+<strong>Frontend</strong>
 
-* Component architecture
-* Reusable UI systems
-* Responsive layouts
-* State management
-* RTK Query caching
-* SEO optimization
-
-</td>
-<td width="25%" valign="top">
-
-### Backend
-
-* REST API design
-* Authentication
-* Authorization
-* Zod validation
-* Secure session handling
-* Role-based access
+<ul>
+<li>Component architecture</li>
+<li>Reusable UI systems</li>
+<li>Responsive layouts</li>
+<li>State management</li>
+<li>RTK Query caching</li>
+<li>SEO optimization</li>
+</ul>
 
 </td>
-<td width="25%" valign="top">
+<td valign="top" width="25%">
 
-### Database
+<strong>Backend</strong>
 
-* PostgreSQL modeling
-* Prisma ORM
-* Query optimization
-* Relational workflows
-* MongoDB data handling
-* Audit-friendly systems
+<ul>
+<li>REST API design</li>
+<li>Authentication</li>
+<li>Authorization</li>
+<li>Zod validation</li>
+<li>Secure session handling</li>
+<li>Role-based access</li>
+</ul>
 
 </td>
-<td width="25%" valign="top">
+<td valign="top" width="25%">
 
-### Product Delivery
+<strong>Database</strong>
 
-* Requirement analysis
-* Architecture planning
-* Agile collaboration
-* Performance optimization
-* Deployment
-* Maintainable handoff
+<ul>
+<li>PostgreSQL modeling</li>
+<li>Prisma ORM</li>
+<li>Query optimization</li>
+<li>Relational workflows</li>
+<li>MongoDB data handling</li>
+<li>Audit-friendly systems</li>
+</ul>
+
+</td>
+<td valign="top" width="25%">
+
+<strong>Product Delivery</strong>
+
+<ul>
+<li>Requirement analysis</li>
+<li>Architecture planning</li>
+<li>Agile collaboration</li>
+<li>Performance optimization</li>
+<li>Deployment</li>
+<li>Maintainable handoff</li>
+</ul>
 
 </td>
 </tr>
@@ -363,23 +447,33 @@ Full-stack ERP platform for textile operations including inventory management, o
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### Education
+<strong>Education</strong>
 
-**BSc in Computer Science and Engineering**
+<br />
+<br />
+
+<strong>BSc in Computer Science and Engineering</strong>
+
+<br />
+
 BRAC University, Dhaka, Bangladesh
 
-**Graduated:** 2023
+<br />
+
+Graduated: 2023
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### Certifications
+<strong>Certifications</strong>
 
-* **Problem Solving (Intermediate)** — HackerRank, 2025
-* **Reactive Accelerator: React and Next.js** — Learn with Sumit, 2025
-* **IELTS** — British Council, 2024
+<ul>
+<li><strong>Problem Solving (Intermediate)</strong> — HackerRank, 2025</li>
+<li><strong>Reactive Accelerator: React and Next.js</strong> — Learn with Sumit, 2025</li>
+<li><strong>IELTS</strong> — British Council, 2024</li>
+</ul>
 
 </td>
 </tr>
